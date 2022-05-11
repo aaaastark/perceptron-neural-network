@@ -1,14 +1,12 @@
-# perceptron-neural-network
-Artificial Natural Network Perceptron (Forward Pass and Back Propagation). Weights and Bias. Forward Pass: Net Input Function, Activation Function (Sigmoid). Threshold. Back Propagation: Binary Cross Entropy Loss, Computing Gradients/ Slopes/ Derivatives, Gradient Descent Step, Epoch.
+# Perceptron Neural Network
 
+## Artificial Natural Network Perceptron (Forward Pass and Back Propagation).
+## Weights and Bias.
+## Forward Pass: Net Input Function, Activation Function (Sigmoid).
+## Threshold.
+## Back Propagation: Binary Cross Entropy Loss, Computing Gradients/ Slopes/ Derivatives, Gradient Descent Step, Epoch.
 
-# Artificial Natural Network Perceptron (Forward Pass and Back Propagation).
-# Weights and Bias.
-# Forward Pass: Net Input Function, Activation Function (Sigmoid).
-# Threshold.
-# Back Propagation: Binary Cross Entropy Loss, Computing Gradients/ Slopes/ Derivatives, Gradient Descent Step, Epoch.
-
-## Task Perceptron
+#### Task Perceptron
 1. Write code to perform N number of epochs until the loss gets close to zero.
 
 3. Compute the loss after each epcoh using sklearn loss function.
